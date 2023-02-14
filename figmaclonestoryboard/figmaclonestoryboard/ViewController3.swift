@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 class ViewController3 : ViewController {
-    @IBOutlet weak var CustombgView: CustombgView!
+    @IBOutlet weak var CustomSmallView: CustomSmallView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.

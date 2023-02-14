@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 @IBDesignable
-final class CustombgView : UIView {
+final class CustomSmallView : UIView {
     @IBInspectable
     
     var cornerRadius: CGFloat = 8 {
